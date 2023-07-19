@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{7BD793BB-36F3-415D-853D-84322C2AAE71}|https">
+  <MonoDevelop.Ide.ItemProperties.TestApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApi/Program.cs">
+    <Files>
+      <File FileName="TestApi/Program.cs" Line="34" Column="11" />
+      <File FileName="TestApi/Models/UserContext.cs" Line="6" Column="3" />
+      <File FileName="TestApi/Controllers/UserController.cs" Line="21" Column="47" />
+      <File FileName="TestApi/appsettings.json" Line="10" Column="27" />
+      <File FileName="TestApi/Models/User.cs" Line="1" Column="1" />
+      <File FileName="TestApi/Startup.cs" Line="16" Column="1" />
+      <File FileName="TestApi/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApi" expanded="True">
+            <Node name="TestApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Database" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
